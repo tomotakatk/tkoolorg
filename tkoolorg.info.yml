@@ -7,6 +7,6 @@ regions:
   content: Content
   sidebar_first: 'Sidebar first'
   footer: Footer
-¥libraries:
+libraries:
   - tkoolorg/global-css
   - tkoolorg/global-js
