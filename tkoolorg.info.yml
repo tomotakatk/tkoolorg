@@ -1,4 +1,4 @@
-name: tkoolorg-theme
+name: tkoolorg
 description: 'RPG Maker MV Newssite themes.'
 type: theme
 core: 8.x
@@ -7,6 +7,6 @@ regions:
   content: Content
   sidebar_first: 'Sidebar first'
   footer: Footer
-libraries:
-  - tkoolorg-theme/global-css
-  - tkoolorg-theme/global-js
+¥libraries:
+  - tkoolorg/global-css
+  - tkoolorg/global-js
