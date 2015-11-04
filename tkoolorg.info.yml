@@ -2,7 +2,7 @@ name: Tkoolorg1
 type: theme
 base theme: Bartik
 description: 'ツクール新聞のテーマその1'
-package: Core
+# package: Core
 # version: VERSION
 # core: 8.x
 libraries:
