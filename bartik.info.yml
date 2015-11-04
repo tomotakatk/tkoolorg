@@ -1,8 +1,8 @@
-name: Tkoolorg1
+name: Bartik
 type: theme
-base theme: Bartik
-description: 'ツクール新聞のテーマその1'
-# package: Core
+base theme: classy
+description: 'A flexible, recolorable theme with many regions and a responsive, mobile-first layout.'
+package: Core
 # version: VERSION
 # core: 8.x
 libraries:
@@ -32,8 +32,8 @@ regions:
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
 
-# Information added by Drupal.org packaging script on 2015-10-21
-version: '8.0.0-rc2'
+# Information added by Drupal.org packaging script on 2015-11-03
+version: '8.0.0-rc2+134-dev'
 core: '8.x'
 project: 'drupal'
-datestamp: 1445469654
+datestamp: 1446586714
